@@ -5,7 +5,7 @@ Thanks for contributing! Please adhere to the [Contributor Code of Conduct](/COD
 ## Format
 
 ```
-- [Organization](https://organization.com) | _category_ | locations | **Remote friendly**? ? |[Current openings](https://jobs.organization.com) | mission
+- [Organization](https://organization.com) | _category_ | locations | **Remote friendly**? ? |[Current openings](https://jobs.organization.com) | **Nonprofit**? ? | mission
 ```
 
 Locations **must** be city names that are separated by a `/`, `;`, or `&`. Locations should be formatted like so:
