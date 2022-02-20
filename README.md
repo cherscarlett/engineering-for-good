@@ -12,7 +12,7 @@ Please read the [Code of Conduct](CODE_OF_CONDUCT.md) and [guidelines](CONTRIBUT
 
 ---
 
-## List of Organization
+## List of Organizations
 
 - **[Audere](https://www.auderenow.org/)** | _Health_ | Seattle, WA | **Remote friendly**? ✅ | [Current openings](https://www.auderenow.org/careers) | **Nonprofit**? ✅ | **Mission**: Improve global health outcomes in the world's most underserved communities; building products that enable people of any skill level to administer, interpret, and digitally record the world's most utilized rapid diagnostic tests
 
