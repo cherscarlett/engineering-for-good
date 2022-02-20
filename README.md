@@ -6,7 +6,7 @@ A list of companies or organizations that hire software engineers.
 - A mission-driven organization can be non-for-profit, but it doesn't have to be.
 - A non-profit organization is not always mission-driven.
 
-Please read the [Code of Conduct](CODE_OF_CONDUCT.md) and [contributing guidelines](CONTRIBUTING.md) before contributing.
+Please read the [Code of Conduct](CODE_OF_CONDUCT.md) and [guidelines](CONTRIBUTING.md) before contributing.
 
 ---
 
