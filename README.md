@@ -1,5 +1,5 @@
 # Engineering for Good
-A list of companies or organizations that hire software engineers.
+A list of mission-driven organizations that hire software engineers.
 
 - A mission-driven organization prioritizes solving real-world issues ethically and responsibly.
 - A mission-driven organization puts equal or more into the community than it gets back.
