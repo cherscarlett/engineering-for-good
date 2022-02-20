@@ -8,6 +8,8 @@ A list of companies or organizations that hire software engineers.
 
 Please read the [Code of Conduct](CODE_OF_CONDUCT.md) and [guidelines](CONTRIBUTING.md) before contributing.
 
+⭐ Thank you to [Lauren Tan](https://github.com/poteto) for inspiring the format with [Hiring without whiteboards](https://github.com/poteto/hiring-without-whiteboards). 
+
 ---
 
 ## List of Organization
