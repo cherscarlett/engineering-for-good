@@ -10,8 +10,12 @@ Please read the [Code of Conduct](CODE_OF_CONDUCT.md) and [contributing guidelin
 
 ---
 
-## List of Organizations
+## List of Organization
 
-- **[Audere](https://www.auderenow.org/)** | _Healthcare_ | Seattle, WA, US | **Remote friendly**? ✅ | [Current openings](https://www.auderenow.org/careers) | **Nonprofit**? ✅ | **Mission**: Improve global health outcomes in the world's most underserved communities; building products that enable people of any skill level to administer, interpret, and digitally record the world's most utilized rapid diagnostic tests
+- **[Audere](https://www.auderenow.org/)** | _Health_ | Seattle, WA | **Remote friendly**? ✅ | [Current openings](https://www.auderenow.org/careers) | **Nonprofit**? ✅ | **Mission**: Improve global health outcomes in the world's most underserved communities; building products that enable people of any skill level to administer, interpret, and digitally record the world's most utilized rapid diagnostic tests
 
-- **[edX](https://www.edx.org/)**  | _Education_ | Cambridge, MA, US | **Remote friendly**? ✅ | [Current openings](https://boards.greenhouse.io/2uedx) | **Nonprofit**? ❌ | **Mission**: Increase access to high-quality education for everyone, everywhere; Enhance teaching and learning on campus and online; Advance teaching and learning through research | **Notes**: Was previously nonprofit, purchased by 2U
+- **[edX](https://www.edx.org/)**  | _Education_ | Cambridge, MA | **Remote friendly**? ✅ | [Current openings](https://boards.greenhouse.io/2uedx) | **Nonprofit**? ❌ | Increase access to high-quality education for everyone, everywhere; Enhance teaching and learning on campus and online; Advance teaching and learning through research
+
+- **[Kiva](https://www.kiva.org/)**  | _Human rights_ | San Francisco, CA | **Remote friendly**? ✅ | [Current openings](https://www.careers.kiva.org/) | **Nonprofit**? ✅ | A financially inclusive world where all people hold the power to improve their lives
+
+- **[Measures for Justice](https://www.measuresforjustice.org/)**  | _Human rights_ | Rochester, NY | **Remote friendly**? ✅ | [Current openings](https://www.measuresforjustice.org/about/jobs) | **Nonprofit**? ✅ | To make accurate criminal justice data available to spur reform
