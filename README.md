@@ -16,6 +16,8 @@ Please read the [Code of Conduct](CODE_OF_CONDUCT.md) and [guidelines](CONTRIBUT
 
 - **[Act Now Coalition](https://www.actnowcoalition.org/)** | _Public service_ | Chicago, IL | **Remote friendly**? ✅ | [Current openings](https://www.actnowcoalition.org/#join-us) | **Nonprofit**? ✅ | **Mission**: To build innovative, user-friendly products with a nimble, streamlined approach to help solve today's most pressing social problems
 
+- **[Allen Institute for AI](https://allenai.org/)** | _Public service_ | Seattle, WA | **Remote friendly**? ✅ | [Current openings](https://allenai.org/careers#current-openings) | **Nonprofit**? ✅ | **Mission**: To contribute to humanity through high-impact AI research and engineering
+
 - **[Audere](https://www.auderenow.org/)** | _Health_ | Seattle, WA | **Remote friendly**? ✅ | [Current openings](https://www.auderenow.org/careers) | **Nonprofit**? ✅ | **Mission**: Improve global health outcomes in the world's most underserved communities; building products that enable people of any skill level to administer, interpret, and digitally record the world's most utilized rapid diagnostic tests
 
 - **[edX](https://www.edx.org/)**  | _Education_ | Cambridge, MA | **Remote friendly**? ✅ | [Current openings](https://boards.greenhouse.io/2uedx) | **Nonprofit**? ❌ | Increase access to high-quality education for everyone, everywhere; Enhance teaching and learning on campus and online; Advance teaching and learning through research
