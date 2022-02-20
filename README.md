@@ -20,6 +20,8 @@ Please read the [Code of Conduct](CODE_OF_CONDUCT.md) and [guidelines](CONTRIBUT
 
 - **[FREE THE WORK](https://freethework.com/)**  | _Human rights_ | Los Angeles, CA | **Remote friendly**? ✅ | [Current openings](https://freethework.com/jobs) | **Nonprofit**? ✅ | Identifying systemic inequalities in film, television, advertising, and media, and finding actionable solutions to expand access for underrepresented creators
 
+- **[Khan Academy](https://www.khanacademy.org/)**  | _Education_ | Mountain View, CA | **Remote friendly**? ✅ | [Current openings](https://www.khanacademy.org/careers#openings) | **Nonprofit**? ✅ | To provide a free, world-class education to anyone, anywhere
+
 - **[Kiva](https://www.kiva.org/)**  | _Human rights_ | San Francisco, CA | **Remote friendly**? ✅ | [Current openings](https://www.careers.kiva.org/) | **Nonprofit**? ✅ | A financially inclusive world where all people hold the power to improve their lives
 
 - **[Measures for Justice](https://www.measuresforjustice.org/)**  | _Human rights_ | Rochester, NY | **Remote friendly**? ✅ | [Current openings](https://www.measuresforjustice.org/about/jobs) | **Nonprofit**? ✅ | To make accurate criminal justice data available to spur reform
