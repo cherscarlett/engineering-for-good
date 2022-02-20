@@ -22,6 +22,8 @@ Please read the [Code of Conduct](CODE_OF_CONDUCT.md) and [guidelines](CONTRIBUT
 
 - **[edX](https://www.edx.org/)**  | _Education_ | Cambridge, MA | **Remote friendly**? ✅ | [Current openings](https://boards.greenhouse.io/2uedx) | **Nonprofit**? ❌ | Increase access to high-quality education for everyone, everywhere; Enhance teaching and learning on campus and online; Advance teaching and learning through research
 
+- **[First Look Media](https://firstlook.media/)**  | _Public service_ | New York, NY | **Remote friendly**? ✅ | [Current openings](https://firstlook.media/careers) | **Nonprofit**? ❌ | Supporting independent voices, from fearless investigative journalism and documentary filmmaking to smart, provocative entertainment
+
 - **[FREE THE WORK](https://freethework.com/)**  | _Human rights_ | Los Angeles, CA | **Remote friendly**? ✅ | [Current openings](https://freethework.com/jobs) | **Nonprofit**? ✅ | Identifying systemic inequalities in film, television, advertising, and media, and finding actionable solutions to expand access for underrepresented creators
 
 - **[Khan Academy](https://www.khanacademy.org/)**  | _Education_ | Mountain View, CA | **Remote friendly**? ✅ | [Current openings](https://www.khanacademy.org/careers#openings) | **Nonprofit**? ✅ | To provide a free, world-class education to anyone, anywhere
