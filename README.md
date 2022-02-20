@@ -32,8 +32,6 @@ Please read the [Code of Conduct](CODE_OF_CONDUCT.md) and [guidelines](CONTRIBUT
 
 - **[Guild Education](https://www.guildeducation.com/)**  | _Education_ | Denver, CO | **Remote friendly**? ✅ | [Current openings](https://www.guildeducation.com/about-us/careers/) | **Nonprofit**? ❌ | Unlock opportunity for America’s workforce through education and upskilling with a double bottom line business model that does well by doing good
 
-- **[Khan Academy](https://www.khanacademy.org/)**  | _Education_ | Mountain View, CA | **Remote friendly**? ✅ | [Current openings](https://www.khanacademy.org/careers#openings) | **Nonprofit**? ✅ | To provide a free, world-class education to anyone, anywhere
-
 - **[Kiva](https://www.kiva.org/)**  | _Human rights_ | San Francisco, CA | **Remote friendly**? ✅ | [Current openings](https://www.careers.kiva.org/) | **Nonprofit**? ✅ | A financially inclusive world where all people hold the power to improve their lives
 
 - **[Mark43](https://mark43.com/)**  | _Public service_ | New York, NY | **Remote friendly**? ✅ | [Current openings](https://mark43.com/careers/north-america/#job-openings) | **Nonprofit**? ❌ | To empower communities and their governments with new technologies that improve the safety and quality of life for all
