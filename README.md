@@ -25,3 +25,5 @@ Please read the [Code of Conduct](CODE_OF_CONDUCT.md) and [guidelines](CONTRIBUT
 - **[Measures for Justice](https://www.measuresforjustice.org/)**  | _Human rights_ | Rochester, NY | **Remote friendly**? ✅ | [Current openings](https://www.measuresforjustice.org/about/jobs) | **Nonprofit**? ✅ | To make accurate criminal justice data available to spur reform
 
 - **[Syndio](https://synd.io/)**  | _Human rights_ | Seattle, WA | **Remote friendly**? ✅ | [Current openings](https://synd.io/career-opportunities/) | **Nonprofit**? ❌ | To build expert-backed technology that helps companies measure, achieve, and sustain workplace equity
+
+- **[World Wildlife Fund](https://www.worldwildlife.org/)**  | _Environmental_ | Washington, DC | **Remote friendly**? ? | [Current openings](https://www.worldwildlife.org/about/careers) | **Nonprofit**? ✅ | To stop the degradation of the earth’s natural environment and to build a future in which humans live in harmony with nature by conserving the world’s biological diversity, ensuring that the use of renewable natural resources is sustainable, and promoting the reduction of pollution and wasteful consumption
