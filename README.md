@@ -21,3 +21,5 @@ Please read the [Code of Conduct](CODE_OF_CONDUCT.md) and [guidelines](CONTRIBUT
 - **[Kiva](https://www.kiva.org/)**  | _Human rights_ | San Francisco, CA | **Remote friendly**? ✅ | [Current openings](https://www.careers.kiva.org/) | **Nonprofit**? ✅ | A financially inclusive world where all people hold the power to improve their lives
 
 - **[Measures for Justice](https://www.measuresforjustice.org/)**  | _Human rights_ | Rochester, NY | **Remote friendly**? ✅ | [Current openings](https://www.measuresforjustice.org/about/jobs) | **Nonprofit**? ✅ | To make accurate criminal justice data available to spur reform
+
+- **[Syndio](https://synd.io/)**  | _Human rights_ | Seattle, WA | **Remote friendly**? ✅ | [Current openings](https://synd.io/career-opportunities/) | **Nonprofit**? ❌ | To build expert-backed technology that helps companies measure, achieve, and sustain workplace equity
