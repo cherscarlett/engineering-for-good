@@ -48,7 +48,7 @@ Please read the [Code of Conduct](CODE_OF_CONDUCT.md) and [guidelines](CONTRIBUT
 
 - **[Syndio](https://synd.io/)**  | _Human rights_ | Seattle, WA | **Remote friendly**? ✅ | [Current openings](https://synd.io/career-opportunities/) | **Nonprofit**? ❌ | To build expert-backed technology that helps companies measure, achieve, and sustain workplace equity
 
-- **[U.S. Digital Service](https://www.usds.gov/)** | _Public service_ | Washington, DC | **Remote friendly**? ✅ | [Current openings](https://www.usds.gov/apply) | **Nonprofit** ✅ | To deliver better government services to the American people through technology and design
+- **[U.S. Digital Service](https://www.usds.gov/)** | _Public service_ | Washington, DC | **Remote friendly**? ✅ | [Current openings](https://www.usds.gov/apply) | **Nonprofit**? ✅ | To deliver better government services to the American people through technology and design
 
 - **[Warby Parker](https://www.warbyparker.com/)**  | _Health_ | New York, NY | **Remote friendly**? ✅ | [Current openings](https://www.warbyparker.com/jobs) | **Nonprofit**? ❌ | To advocate for wider access to vision services, educate communities on the importance of eye health, and provide people with the eye care they need to lead safe, happy, and productive lives
 
