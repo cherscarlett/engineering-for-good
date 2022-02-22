@@ -34,6 +34,8 @@ Please read the [Code of Conduct](CODE_OF_CONDUCT.md) and [guidelines](CONTRIBUT
 
 - **[Incredible Health](https://www.incrediblehealth.com/)** | _Health_ | San Francisco, CA | **Remote friendly**? ✅  | [Current openings](https://www.incrediblehealth.com/careers/) | **Nonprofit**? ❌ | Empower healthcare professionals to find and do their best work
 
+- **[Health Equiy Tracker](https://healthequitytracker.org/)**  | _Health_ | Atlanta, GA | **Remote friendly**? ✅ | [Current openings](https://careers.msm.edu/postings/11805) | **Nonprofit**?  ✅ | Build a product that shines a light on health inequities in the United States. We aim to show how systemic racism and other factors have caused disparate health outcomes, and to advocate for policy change to improve the health of all.
+
 - **[Kiva](https://www.kiva.org/)**  | _Human rights_ | San Francisco, CA | **Remote friendly**? ✅ | [Current openings](https://www.careers.kiva.org/) | **Nonprofit**? ✅ | A financially inclusive world where all people hold the power to improve their lives
 
 - **[Mark43](https://mark43.com/)**  | _Public service_ | New York, NY | **Remote friendly**? ✅ | [Current openings](https://mark43.com/careers/north-america/#job-openings) | **Nonprofit**? ❌ | To empower communities and their governments with new technologies that improve the safety and quality of life for all
@@ -47,3 +49,5 @@ Please read the [Code of Conduct](CODE_OF_CONDUCT.md) and [guidelines](CONTRIBUT
 - **[Warby Parker](https://www.warbyparker.com/)**  | _Health_ | New York, NY | **Remote friendly**? ✅ | [Current openings](https://www.warbyparker.com/jobs) | **Nonprofit**? ❌ | To advocate for wider access to vision services, educate communities on the importance of eye health, and provide people with the eye care they need to lead safe, happy, and productive lives
 
 - **[World Wildlife Fund](https://www.worldwildlife.org/)**  | _Environmental_ | Washington, DC | **Remote friendly**? ? | [Current openings](https://www.worldwildlife.org/about/careers) | **Nonprofit**? ✅ | To stop the degradation of the earth’s natural environment and to build a future in which humans live in harmony with nature by conserving the world’s biological diversity, ensuring that the use of renewable natural resources is sustainable, and promoting the reduction of pollution and wasteful consumption
+
+
