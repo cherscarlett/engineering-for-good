@@ -34,7 +34,7 @@ Please read the [Code of Conduct](CODE_OF_CONDUCT.md) and [guidelines](CONTRIBUT
 
 - **[Incredible Health](https://www.incrediblehealth.com/)** | _Health_ | San Francisco, CA | **Remote friendly**? ✅  | [Current openings](https://www.incrediblehealth.com/careers/) | **Nonprofit**? ❌ | Empower healthcare professionals to find and do their best work
 
-- **[Health Equiy Tracker](https://healthequitytracker.org/)**  | _Health_ | Atlanta, GA | **Remote friendly**? ✅ | [Current openings](https://careers.msm.edu/postings/11805) | **Nonprofit**?  ✅ | Build a product that shines a light on health inequities in the United States. We aim to show how systemic racism and other factors have caused disparate health outcomes, and to advocate for policy change to improve the health of all.
+- **[Health Equity Tracker](https://healthequitytracker.org/)**  | _Health_ | Atlanta, GA | **Remote friendly**? ✅ | [Current openings](https://careers.msm.edu/postings/11805) | **Nonprofit**?  ✅ | Build a product that shines a light on health inequities in the United States. We aim to show how systemic racism and other factors have caused disparate health outcomes, and to advocate for policy change to improve the health of all.
 
 - **[Kiva](https://www.kiva.org/)**  | _Human rights_ | San Francisco, CA | **Remote friendly**? ✅ | [Current openings](https://www.careers.kiva.org/) | **Nonprofit**? ✅ | A financially inclusive world where all people hold the power to improve their lives
 
