@@ -34,6 +34,8 @@ Please read the [Code of Conduct](CODE_OF_CONDUCT.md) and [guidelines](CONTRIBUT
 
 - **[Kiva](https://www.kiva.org/)**  | _Human rights_ | San Francisco, CA | **Remote friendly**? ✅ | [Current openings](https://www.careers.kiva.org/) | **Nonprofit**? ✅ | A financially inclusive world where all people hold the power to improve their lives
 
+- **[LearnPlatform](https://www.learnplatform.com/)**  | _Education_ | Raleigh, NC | **Remote friendly**? ✅ | [Current openings](https://learnplatform.com/current-openings/) | **Nonprofit**? ❌ | To expand equitable access for all students to teaching and technology that works best for them
+
 - **[Mark43](https://mark43.com/)**  | _Public service_ | New York, NY | **Remote friendly**? ✅ | [Current openings](https://mark43.com/careers/north-america/#job-openings) | **Nonprofit**? ❌ | To empower communities and their governments with new technologies that improve the safety and quality of life for all
 
 - **[Measures for Justice](https://www.measuresforjustice.org/)**  | _Human rights_ | Rochester, NY | **Remote friendly**? ✅ | [Current openings](https://www.measuresforjustice.org/about/jobs) | **Nonprofit**? ✅ | To make accurate criminal justice data available to spur reform
