@@ -38,6 +38,8 @@ Please read the [Code of Conduct](CODE_OF_CONDUCT.md) and [guidelines](CONTRIBUT
 
 - **[Kiva](https://www.kiva.org/)**  | _Human rights_ | San Francisco, CA | **Remote friendly**? ✅ | [Current openings](https://www.careers.kiva.org/) | **Nonprofit**? ✅ | A financially inclusive world where all people hold the power to improve their lives
 
+- **[League of Conservation Voters](https://lcv.org/)** | _Environmental_ | Washington, DC | **Remote friendly**? ✅ | [Current openings](https://lcv.org/careers/) | **Nonprofit**? ✅ | To build a world with clean air, clean water, public lands, and a safe climate that are protected by a just and equitable democracy
+
 - **[LearnPlatform](https://www.learnplatform.com/)**  | _Education_ | Raleigh, NC | **Remote friendly**? ✅ | [Current openings](https://learnplatform.com/current-openings/) | **Nonprofit**? ❌ | To expand equitable access for all students to teaching and technology that works best for them
 
 - **[Mark43](https://mark43.com/)**  | _Public service_ | New York, NY | **Remote friendly**? ✅ | [Current openings](https://mark43.com/careers/north-america/#job-openings) | **Nonprofit**? ❌ | To empower communities and their governments with new technologies that improve the safety and quality of life for all
@@ -45,6 +47,8 @@ Please read the [Code of Conduct](CODE_OF_CONDUCT.md) and [guidelines](CONTRIBUT
 - **[Measures for Justice](https://www.measuresforjustice.org/)**  | _Human rights_ | Rochester, NY | **Remote friendly**? ✅ | [Current openings](https://www.measuresforjustice.org/about/jobs) | **Nonprofit**? ✅ | To make accurate criminal justice data available to spur reform
 
 - **[National Geographic Society](https://www.nationalgeographic.org/society/)**  | _Environmental_ | Washington, DC | **Remote friendly**? ✅ | [Current openings](https://ngs.wd1.myworkdayjobs.com/ngs_external_career_site) | **Nonprofit**? ✅ | Using the power of science, exploration, education, and storytelling to illuminate and protect
+
+- **[Service Employees International Union](https://www.seiu.org/)**  | _Human rights_ | Washington, DC; New York, NY; Philadelphia, PA | **Remote friendly**? ✅ | [Current openings](https://recruiting.ultipro.com/SER1005SEIU/JobBoard/e131b2ae-a5ce-4fb1-a93c-84c36a485721/?q=&o=postedDateDesc&w=&wc=&we=&wpst=) | **Nonprofit**? ✅ | Improving the lives of workers and their families and creating a more just and humane society
 
 - **[Syndio](https://synd.io/)**  | _Human rights_ | Seattle, WA | **Remote friendly**? ✅ | [Current openings](https://synd.io/career-opportunities/) | **Nonprofit**? ❌ | To build expert-backed technology that helps companies measure, achieve, and sustain workplace equity
 
