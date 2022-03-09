@@ -20,7 +20,9 @@ Please read the [Code of Conduct](CODE_OF_CONDUCT.md) and [guidelines](CONTRIBUT
 
 - **[Audere](https://www.auderenow.org/)** | _Health_ | Seattle, WA | **Remote friendly**? ✅ | [Current openings](https://www.auderenow.org/careers) | **Nonprofit**? ✅ | **Mission**: Improve global health outcomes in the world's most underserved communities; building products that enable people of any skill level to administer, interpret, and digitally record the world's most utilized rapid diagnostic tests
 
-- **[ChargePoint](https://www.chargepoint.com/)** | _Environmental_ | Campbell, CA; Amsterdam, Netherlands; Gurgoan, India | **Remote friendly**? ✅ | [Current openings](https://www.chargepoint.com/about/opportunities) | **Nonprofit**? ❌ | **Mission**: To create technology that will enable the movement of all people and goods on electricity.
+- **[ChargePoint](https://www.chargepoint.com/)** | _Environmental_ | Campbell, CA; Amsterdam, Netherlands; Gurgoan, India | **Remote friendly**? ✅ | [Current openings](https://www.chargepoint.com/about/opportunities) | **Nonprofit**? ❌ | **Mission**: To create technology that will enable the movement of all people and goods on electricity
+
+- **[Crisis Text Line](https://www.crisistextline.org/)** | _Health_ | New York, NY | **Remote friendly**? ✅ | [Current openings](https://www.crisistextline.org/join-our-staff/) | **Nonprofit**? ✅ | **Mission**: To promote mental well-being for people wherever they are
 
 - **[edX](https://www.edx.org/)**  | _Education_ | Cambridge, MA | **Remote friendly**? ✅ | [Current openings](https://boards.greenhouse.io/2uedx) | **Nonprofit**? ❌ | Increase access to high-quality education for everyone, everywhere; Enhance teaching and learning on campus and online; Advance teaching and learning through research
 
