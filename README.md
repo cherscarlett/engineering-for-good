@@ -20,6 +20,8 @@ Please read the [Code of Conduct](CODE_OF_CONDUCT.md) and [guidelines](CONTRIBUT
 
 - **[Audere](https://www.auderenow.org/)** | _Health_ | Seattle, WA | **Remote friendly**? ✅ | [Current openings](https://www.auderenow.org/careers) | **Nonprofit**? ✅ | **Mission**: Improve global health outcomes in the world's most underserved communities; building products that enable people of any skill level to administer, interpret, and digitally record the world's most utilized rapid diagnostic tests
 
+- **[betterplace](https://www.betterplace.org/en)** | _Public service_ | Berlin, Germany | **Remote friendly**? ✅ | [Current openings](https://betterplaceorg.recruitee.com) | **Nonprofit**? ✅ | **Mission**: Make it easier for people to change the world through donations
+
 - **[ChargePoint](https://www.chargepoint.com/)** | _Environmental_ | Campbell, CA; Amsterdam, Netherlands; Gurgoan, India | **Remote friendly**? ✅ | [Current openings](https://www.chargepoint.com/about/opportunities) | **Nonprofit**? ❌ | **Mission**: To create technology that will enable the movement of all people and goods on electricity
 
 - **[Crisis Text Line](https://www.crisistextline.org/)** | _Health_ | New York, NY | **Remote friendly**? ✅ | [Current openings](https://www.crisistextline.org/join-our-staff/) | **Nonprofit**? ✅ | **Mission**: To promote mental well-being for people wherever they are
