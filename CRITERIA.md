@@ -2,6 +2,7 @@
 
 In order to be accepted into this list, the organization must:
 
+- Employ software engineers
 - Have a clearly defined mission that serves a purpose that is for a common good that fits one of these categories:
   - Environmental
   - Education
