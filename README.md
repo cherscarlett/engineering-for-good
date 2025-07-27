@@ -30,7 +30,7 @@ Please read the [Code of Conduct](CODE_OF_CONDUCT.md) and [guidelines](CONTRIBUT
 
 - **[Humu](https://www.humu.com/)**  | _Human rights_ | Mountain View, CA | **Remote friendly**? ✅ | [Current openings](https://boards.greenhouse.io/humu) | **Nonprofit**? ❌ | Make work better, for everyone, everywhere
 
-- **[First Look Media](https://firstlook.media/)**  | _Public service_ | New York, NY | **Remote friendly**? ✅ | [Current openings](https://boards.greenhouse.io/firstlookmedia) | **Nonprofit**? ❌ | Supporting independent voices, from fearless investigative journalism and documentary filmmaking to smart, provocative entertainment
+- **[First Look Media](https://firstlook.media/)**  | _Public service_ | New York, NY | **Remote friendly**? ✅ | [Current openings](https://www.firstlook.media/about) | **Nonprofit**? ❌ | Supporting independent voices, from fearless investigative journalism and documentary filmmaking to smart, provocative entertainment
 
 - **[GoodRx](https://www.goodrx.com/)**  | _Health_ | Santa Monica, CA | **Remote friendly**? ✅ | [Current openings](https://www.goodrx.com/jobs/openings/) | **Nonprofit**? ❌ | Help people get the healthcare they need at a price they can afford
 
